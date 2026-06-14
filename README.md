@@ -3,7 +3,7 @@
 **Course:** CIE 457 — Statistical Inference and Data Analysis  
 **Institution:** University of Science and Technology, Zewail City  
 **Semester:** Spring 2026  
-**Author:** Mohammed Ali (202200594)
+**Author:** Ahmed Amgad (202200393)
 
 ---
 
